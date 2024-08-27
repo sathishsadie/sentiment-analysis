@@ -8,6 +8,6 @@
 
 ## From the above model I have explored the Deep Learning Concepts such as Bidirectional LSTM Model to find sentiments in the test .
 [Dataset Link](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
-![](images\sentiment.png)
+![](images/sentiment.png)
 
 
